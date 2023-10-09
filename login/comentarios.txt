@@ -1,0 +1,5 @@
+1. I learned how to navigate between different tabs or windows in Flutter.
+2. I learned how to use the Drawer component.
+3. I learned how to pass information between windows or widgets in Flutter.
+4. I learned how to create better-structured projects by using individual class files.
+5. I learned how to add new style components in Flutter.
